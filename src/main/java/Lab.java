@@ -1,5 +1,6 @@
-public class CombineStrings {
+public class Lab {
     /**
+     * TODO: return the combination of two Strings.
      * You can combine two strings using the '+' operator.
      * For instance, String bigstr = str1 + str2.
      * This method should return the combination of two Strings.

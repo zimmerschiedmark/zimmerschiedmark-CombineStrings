@@ -2,7 +2,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class CombineStringsTest {
-    CombineStrings cs = new CombineStrings();
+    Lab cs = new Lab();
 
     /**
      * The combination of strings abc and xyz should result in abcxyz.
